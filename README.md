@@ -1,4 +1,4 @@
-## ARES: Autonomous Repository Exploit Spider
+## ARES, the Zeroday Machine: From Target to CVE, Autonomously
 
 ## Code Release Status
 The full source code, deployment guides, and technical documentation will be released here following our upcoming presentation
