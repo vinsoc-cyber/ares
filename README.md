@@ -10,5 +10,5 @@ The full source code, deployment guides, and technical documentation will be rel
 Please **stay tuned** for our official code release!
 
 ## Authors
-- Thai Son Dinh
-- Nguyen Anh Quynh
+- [DINH Thai Son (sondt)](https://github.com/sondt99)
+- [NGUYEN Anh Quynh (aquynh)](https://github.com/aquynh)
